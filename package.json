@@ -1,0 +1,26 @@
+{
+  "name": "payamak-panel-typescript",
+  "version": "1.2.0",
+  "description": "TypeScript webservice wrapper for payamak-panel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payamak-panel/TypeScript.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "A  ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/payamak-panel/TypeScript/issues"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "@types/node": "^18.11.3",
+    "soap": "^0.23.0"
+  }
+}
